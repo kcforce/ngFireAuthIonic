@@ -15,12 +15,12 @@ import { Geolocation } from '@ionic-native/geolocation';
 
 
 export const config = {
-    apiKey: "AIzaSyCYqAD6lC0ESfprrLtP-zW4roW_i6sGrxA",
-    authDomain: "fir-firebase-23733.firebaseapp.com",
-    databaseURL: "https://fir-firebase-23733.firebaseio.com",
-    projectId: "fir-firebase-23733",
-    storageBucket: "fir-firebase-23733.appspot.com",
-    messagingSenderId: "685705868834"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 };
 
 @NgModule({
